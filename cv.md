@@ -9,7 +9,7 @@
 --- 
 ## About myself:
 I am 26 years old and I decided to change my career. I started a course at the RS School to gain knowledge, learn more and immerse myself in this area as much as possible.
-Moreover, I am very sociable and always come to the rescue. I like teamwork, also I have experience working in multitasking mode. In addition I adore to improve myself and learn something new. I hope that these skills will help me in my studies and future career.
+Moreover, I am very sociable and always come to the rescue. I like teamwork, also I have an experience working in multitasking mode. In addition, I adore to improve myself and learn something new. I hope that these skills will help me in my studies and future career.
 
 ---
 
@@ -19,10 +19,6 @@ Moreover, I am very sociable and always come to the rescue. I like teamwork, als
 * JavaScript Basics
 * HTML
 ---
-## Code example:
-
----
-
 ## Experience:
 CV 
 
